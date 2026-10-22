@@ -36,6 +36,6 @@ A comprehensive Power BI dashboard designed to track Key Performance Indicators 
 *Detailed breakdown of delivery performance, returns, and customer behavior.*
 
 ## How to view the project
-1. Download the `.pbix` file from this repository.
-2. Open it using Microsoft Power BI Desktop.
+1. Download the `.zip` file from this repository and extract it.
+2. Open the extracted `.pbix` file using Microsoft Power BI Desktop.
 3. Interact with the filters and slicers to explore the data dynamically.
